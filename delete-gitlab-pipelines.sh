@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Укажите ваш GitLab URL и токен доступа
-GITLAB_URL="https://scm.x5.ru"
+GITLAB_URL="https://***"
 PRIVATE_TOKEN="***"
 PROJECT_ID="***"  # Замените на ID вашего проекта
 
